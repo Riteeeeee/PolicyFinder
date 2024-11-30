@@ -49,10 +49,10 @@ Start the application:
    ```shell
 npm run start
 ```
-The application will be accessible at http://localhost:PORT.
+The application will be accessible at https://policyfinder.onrender.com/.
 
 ## Usage
--Open a web browser and navigate to http://localhost:PORT.
+-Open a web browser and navigate to https://policyfinder.onrender.com/.
 -Register a new user account or log in using existing credentials.
 -Fill in your personal details such as occupation, age, gender, caste, and income.
 -Submit the form to receive policy recommendations based on your data.
